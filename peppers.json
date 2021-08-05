@@ -9,7 +9,12 @@
            "name": "big red one",
            "species": "Another species",
            "description": "The second test description, lorem ipsum"
-      }    
+      },
+      {
+           "name": "nice yellow",
+           "species": "yellow species",
+           "description": "The yellow one's description, lorem ipsum"
+      } 
    ],
    
    "hot" : [
