@@ -1,5 +1,5 @@
 {
-   "Mild" : [
+   "mild" : [
       {
            "name": "small and green",
            "species": "C. Chinense",
@@ -12,7 +12,7 @@
       }    
    ],
    
-   "Hot" : [
+   "hot" : [
       {
            "name": "Reaper",
            "species": "Species 3",
