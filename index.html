@@ -4,10 +4,7 @@
 
 <script>
 
-    $(function() {
-
-
-   var people = [];
+   $(function() {
 
    $.getJSON('people.json', function(data) {
        $.each(data.person, function(i, f) {
