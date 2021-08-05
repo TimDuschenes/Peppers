@@ -1,5 +1,5 @@
 {
-   "Mild": [
+   "Mild" : [
       {
            "name": "small and green",
            "species": "C. Chinense",
@@ -10,8 +10,9 @@
            "species": "Another species",
            "description": "The second test description, lorem ipsum",
       }    
-   ]
-   "Hot": [
+   ],
+   
+   "Hot" : [
       {
            "name": "Reaper",
            "species": "Species 3",
