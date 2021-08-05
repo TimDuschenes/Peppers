@@ -1,22 +1,26 @@
 {
-   "person": [
-       {
-           "firstName": "Clark",
-           "lastName": "Kent",
-           "job": "Reporter",
-           "roll": 20
-       },
-       {
-           "firstName": "Bruce",
-           "lastName": "Wayne",
-           "job": "Playboy",
-           "roll": 30
-       },
-       {
-           "firstName": "Peter",
-           "lastName": "Parker",
-           "job": "Photographer",
-           "roll": 40
-       }
+   "Mild": [
+      {
+           "name": "small and green",
+           "species": "C. Chinense",
+           "description": "The first description, lorem ipsum",
+      },
+      {
+           "name": "big red one",
+           "species": "Another species",
+           "description": "The second test description, lorem ipsum",
+      }    
+   ]
+   "Hot": [
+      {
+           "name": "Reaper",
+           "species": "Species 3",
+           "description": "The third description, lorem ipsum",
+      },
+      {
+           "name": "literally kills you",
+           "species": "Species 4",
+           "description": "The fourth test description, lorem ipsum",
+      }    
    ]
 }
