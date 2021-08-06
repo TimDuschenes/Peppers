@@ -33,7 +33,7 @@ function showPeppers(data){
       var content = document.createElement('div');
       content.className = "content";
       var pepperName = document.createElement('a');
-      pepperName.href="#";
+      pepperName.href="javascript:void(0);";
       var icon = document.createElement('i');
       icon.className = "fa fa-plus";
       var pepperSpecies = document.createElement('p');
