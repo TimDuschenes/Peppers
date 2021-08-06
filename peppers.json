@@ -1,32 +1,34 @@
 {
-   "mild" : [
-      {
-           "name": "small and green",
-           "species": "C. Chinense",
-           "description": "The first description, lorem ipsum"
-      },
-      {
-           "name": "big red one",
-           "species": "Another species",
-           "description": "The second test description, lorem ipsum"
-      },
-      {
-           "name": "nice yellow",
-           "species": "yellow species",
-           "description": "The yellow one's description, lorem ipsum"
-      } 
-   ],
-   
-   "hot" : [
-      {
-           "name": "Reaper",
-           "species": "Species 3",
-           "description": "The third description, lorem ipsum"
-      },
-      {
-           "name": "literally kills you",
-           "species": "Species 4",
-           "description": "The fourth test description, lorem ipsum"
-      }    
+   "peppers" : [
+      [
+         {
+            "name": "small and green",
+            "species": "C. Chinense",
+            "description": "The first description, lorem ipsum"
+         },
+         {
+            "name": "big red one",
+            "species": "Another species",
+            "description": "The second test description, lorem ipsum"
+         },
+         {
+            "name": "nice yellow",
+            "species": "yellow species",
+            "description": "The yellow one's description, lorem ipsum"
+         } 
+      ],
+
+      [
+         {
+            "name": "Reaper",
+            "species": "Species 3",
+            "description": "The third description, lorem ipsum"
+         },
+         {
+            "name": "literally kills you",
+            "species": "Species 4",
+            "description": "The fourth test description, lorem ipsum"
+         }    
+      ]
    ]
 }
