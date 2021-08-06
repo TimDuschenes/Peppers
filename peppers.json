@@ -2,38 +2,91 @@
    "peppers" : [
       [
          {
-            "heat": "Mild",
-            "name": "small and green",
-            "species": "C. Chinense",
-            "description": "The first description, lorem ipsum"
-         },
-         {
-            "heat": "Mild",
-            "name": "big red one",
-            "species": "Another species",
-            "description": "The second test description, lorem ipsum"
-         },
-         {
-            "heat": "Mild",
-            "name": "nice yellow",
-            "species": "yellow species",
-            "description": "The yellow one's description, lorem ipsum"
-         } 
+            "Heat": "Mild",
+            "Name": "Szegedi Paprika",
+            "Origin": "Hungary",
+            "Species": "Species here",
+            "Description": "Test one",
+            "Source": "",
+            "Image source": ""
+          },
+          {
+            "Heat": "Mild",
+            "Name": "Boldog Paprika",
+            "Origin": "Hungary",
+            "Species": "Species here",
+            "Description": "Test two",
+            "Source": "",
+            "Image source": ""
+          },
+          {
+            "Heat": "Mild",
+            "Name": "Aleppo Paprika",
+            "Origin": "",
+            "Species": "Species here",
+            "Description": "Test three",
+            "Source": "",
+            "Image source": ""
+          } 
       ],
 
       [
          {
-            "heat": "Hot",
-            "name": "Reaper",
-            "species": "Species 3",
-            "description": "The third description, lorem ipsum"
-         },
+            "Heat": "Medium",
+            "Name": "Ram's Horn",
+            "Origin": "",
+            "Species": "Species here",
+            "Description": "Description here",
+            "Source": "https://www.friendsschoolplantsale.com/plant/10866",
+            "Image source": ""
+          },
+          {
+            "Heat": "Medium",
+            "Name": "Beaver Dam",
+            "Origin": "",
+            "Species": "Species here",
+            "Description": "Description here",
+            "Source": "https://www.seedsavers.org/beaver-dam-pepper",
+            "Image source": ""
+          },
+          {
+            "Heat": "Medium",
+            "Name": "Ralph Thompson's Squash",
+            "Origin": "",
+            "Species": "Species here",
+            "Description": "Description here",
+            "Source": "",
+            "Image source": ""
+          }
+      ],
+      [
          {
-            "heat": "Hot",
-            "name": "literally kills you",
-            "species": "Species 4",
-            "description": "The fourth test description, lorem ipsum"
-         }    
+           "Heat": "Hotter medium",
+            "Name": "Our jalapeños?",
+            "Origin": "",
+            "Species": "Species here",
+            "Description": "Description here",
+            "Source": "",
+            "Image source": ""
+          },
+          {
+            "Heat": "Hotter medium",
+            "Name": "Aribibi Gusano",
+            "Origin": "",
+            "Species": "Species here",
+            "Description": "Description here",
+            "Source": "",
+            "Image source": ""
+          },
+          {
+            "Heat": "Hotter medium",
+            "Name": "Murupi great",
+            "Origin": "",
+            "Species": "C.chinense.",
+            "Description": "Description here",
+            "Source": "https://www.chileplants.com/search.aspx?ProductCode=CHIMUG",
+            "Image source": ""
+        }
       ]
    ]
 }
