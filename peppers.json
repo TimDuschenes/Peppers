@@ -1,92 +1,758 @@
 {
-   "peppers" : [
-      [
-         {
-            "Heat": "Mild",
-            "Name": "Szegedi Paprika",
-            "Origin": "Hungary",
-            "Species": "Species here",
-            "Description": "Test one",
-            "Source": "",
-            "Image source": ""
-          },
-          {
-            "Heat": "Mild",
-            "Name": "Boldog Paprika",
-            "Origin": "Hungary",
-            "Species": "Species here",
-            "Description": "Test two",
-            "Source": "",
-            "Image source": ""
-          },
-          {
-            "Heat": "Mild",
-            "Name": "Aleppo Paprika",
-            "Origin": "",
-            "Species": "Species here",
-            "Description": "Test three",
-            "Source": "",
-            "Image source": ""
-          } 
-      ],
-
-      [
-         {
-            "Heat": "Medium",
-            "Name": "Ram's Horn",
-            "Origin": "",
-            "Species": "Species here",
-            "Description": "Description here",
-            "Source": "https://www.friendsschoolplantsale.com/plant/10866",
-            "Image source": ""
-          },
-          {
-            "Heat": "Medium",
-            "Name": "Beaver Dam",
-            "Origin": "",
-            "Species": "Species here",
-            "Description": "Description here",
-            "Source": "https://www.seedsavers.org/beaver-dam-pepper",
-            "Image source": ""
-          },
-          {
-            "Heat": "Medium",
-            "Name": "Ralph Thompson's Squash",
-            "Origin": "",
-            "Species": "Species here",
-            "Description": "Description here",
-            "Source": "",
-            "Image source": ""
-          }
-      ],
-      [
-         {
-           "Heat": "Hotter medium",
-            "Name": "Our jalapeños?",
-            "Origin": "",
-            "Species": "Species here",
-            "Description": "Description here",
-            "Source": "",
-            "Image source": ""
-          },
-          {
-            "Heat": "Hotter medium",
-            "Name": "Aribibi Gusano",
-            "Origin": "",
-            "Species": "Species here",
-            "Description": "Description here",
-            "Source": "",
-            "Image source": ""
-          },
-          {
-            "Heat": "Hotter medium",
-            "Name": "Murupi great",
-            "Origin": "",
-            "Species": "C.chinense.",
-            "Description": "Description here",
-            "Source": "https://www.chileplants.com/search.aspx?ProductCode=CHIMUG",
-            "Image source": ""
-        }
-      ]
+   "Mild": [
+      {
+         "Name": "Szegedi Paprika",
+         "Origin": "Hungary",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Boldog Paprika",
+         "Origin": "Hungary",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aleppo Paprika",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Hungarian Paprika",
+         "Origin": "Hungary",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Nu Mex Joe E Parker",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "Is this an anaheim?",
+         "Source": "https://www.reimerseeds.com/numex-joe-e-parker-hot-peppers.aspx",
+         "Image source": ""
+      },
+      {
+         "Name": "Pasilla",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Hot wax",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Brown jalapeño",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Shishito",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Poblano",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aji Panca",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Chilhuacles Rojo, Negro, Amarillo",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Guajillo",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Brazilian starfish",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      }
+   ],
+   "Medium": [
+      {
+         "Name": "Ram's Horn",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "https://www.friendsschoolplantsale.com/plant/10866",
+         "Image source": ""
+      },
+      {
+         "Name": "Beaver Dam",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "https://www.seedsavers.org/beaver-dam-pepper",
+         "Image source": ""
+      },
+      {
+         "Name": "Ralph Thompson's Squash",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Serrano",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Cayenne",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Japaleno?",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Georgia flame",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aji orange strawberry",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aji orange Peru?????",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aji Rico",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aji Guyana",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Chocolate cherry bomb",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Cherry bomb",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Orange cherry bomb",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Prik Chi Faa",
+         "Origin": "Thailand",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Gong Bao",
+         "Origin": "Thailand",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Kıl biber",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Thunder Mountain",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "De arbol",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Piquillo",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Ethopian Brown",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Peach drop",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aji Fantasy",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      }
+   ],
+   "Hotter medium": [
+      {
+         "Name": "Lemon drop",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Our jalapeños?",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aribibi Gusano",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Murupi great",
+         "Origin": "",
+         "Species": "C.chinense.",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "https://www.chileplants.com/search.aspx?ProductCode=CHIMUG",
+         "Image source": ""
+      },
+      {
+         "Name": "Murupi amarela",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Thai yellow",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Miguel's orange????",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Miguel's chubby super???",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      }
+   ],
+   "Hot": [
+      {
+         "Name": "Paper lantern",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "https://www.pepperscale.com/hot-paper-lantern/",
+         "Image source": ""
+      },
+      {
+         "Name": "Wiri wiri",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Gamble your gold dust??",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Red Thai",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Orange Thai",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Chilpicitin rojo, amarillo, naranja",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "White bullet",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Israel's yellow",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Bitten ex-lover????",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Yellow lightning habanero",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Brazillian giant habanero",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Puerto Rican yelllow",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Pimenta Moranga?",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Green St Barts",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Dieghito?",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "Usually listed as mild/med?",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Thai bird",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      }
+   ],
+   "Seasoning": [
+      {
+         "Name": "Red biquinho",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Yellow biquinho",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Trinidad pimento",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Aji dulce",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Trinidad perfume",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      }
+   ],
+   "Very hot": [
+      {
+         "Name": "Black panther",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Congo black",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Fatalii",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Orange long-tailed Scorpion",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Yellow bubblegum",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Red bubblegum",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Ugly putty scorpion??",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Giant white habanero",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Chocolate habenero",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Black habanero",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Spit Fire and Cry???",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Mustard Scorpion",
+         "Origin": "Trinidad",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Ghost",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Yellow scotch bonnet",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Red Scotch Bonnet",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Red Apocalypse",
+         "Origin": "Italy",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Green Apocalypse",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Chocolate Apocalypse",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Death Spiral",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Red Reaper",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Yellow Reaper",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Chocolate Reaper",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Wartryx",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "7 Pot Douglah",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "Aka 7 Pod Douglah or chocolate 7 pod",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "7 Pot Brain Strain?",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "7 Pot Primo",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      },
+      {
+         "Name": "Red Savina Habanero",
+         "Origin": "",
+         "Species": "Unknown",
+         "Description": "This pepper doesn't have a description yet!",
+         "Source": "",
+         "Image source": ""
+      }
    ]
 }
