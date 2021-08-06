@@ -1,0 +1,57 @@
+body{
+  padding: 0 10px;
+}
+
+.accordion-container{
+  position: relative;
+  max-width: 500px;
+  height: auto;
+  margin: 20px auto;
+}
+
+.group {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 40px;
+}
+
+.groupName {
+  padding: 0 0 10px;
+  margin: 0;
+}
+
+.set{
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.set > a{
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #333;
+  font-weight: 400;
+  border-top: 1px solid #ddd;
+  -webkit-transition:all 0.2s linear;
+  -moz-transition:all 0.2s linear;
+  transition:all 0.2s linear;
+}
+
+.set > a i{
+  float: right;
+  margin-top: 2px;
+}
+
+.set > a.active{
+  background-color:#ddd;
+}
+
+.content{
+  display:none;
+}
+
+.content p{
+  padding: 10px 15px;
+  margin: 0;
+  color: #333;
+}
