@@ -36,16 +36,30 @@ function showPeppers(data){
       pepperName.href="javascript:void(0);";
       var icon = document.createElement('i');
       icon.className = "fa fa-plus";
-      var pepperSpecies = document.createElement('p');
+      var tagLine = document.createElement('h5');
+      var pepperOrigin = document.createElement('span');
+      pepperOrigin.className = "origin";
+      var pepperSpecies = document.createElement('span');
+      pepperSpecies.className = "species";
       var pepperDescription = document.createElement('p');
+      var source = document.createElement('a');
+      source.className = "source";     
 
       pepperName.textContent = list[i].Name; 
+      pepperOrigin.textContent = list[i].Origin;
       pepperSpecies.textContent = list[i].Species;
       pepperDescription.textContent = list[i].Description;
+      source.textContent = list[i].SourceName;
+      
+      var sourceURL = list[i].SourceURL;
+      source.setAttribute('href', sourceURL);
 
-      content.appendChild(pepperSpecies);
+      //add if loops here to check the origin and species aren't blank
+      tagLine.appendChild(pepperOrigin);
+      tagLine.appendChild(pepperSpecies);
+      content.appendChild(tagLine);
       content.appendChild(pepperDescription);
-
+      content.appendChild(source);
       pepperName.appendChild(icon);
 
       set.appendChild(pepperName);
