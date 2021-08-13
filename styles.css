@@ -11,12 +11,16 @@ body{
 
 .group {
   border-bottom: 1px solid #ddd;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .groupName {
-  padding: 0 0 10px;
-  margin: 0;
+  padding: 10px 0;
+  margin: 0 0 5px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 999;
 }
 
 .set{
@@ -43,15 +47,43 @@ body{
 }
 
 .set > a.active{
-  background-color:#ddd;
+  font-size: 1.7em;
 }
 
 .content{
   display:none;
+  padding: 5px 15px 20px;
+  margin: 0;
 }
 
 .content p{
-  padding: 10px 15px;
   margin: 0;
   color: #333;
 }
+
+.content h5{
+  font-weight: normal;
+  margin: 0 0 10px;
+}
+
+.origin {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.07em;
+  font-weight: 600;
+  margin-right: 10px;
+}
+
+.species {
+  text-transform: none;
+  font-style: italic;
+}
+
+.content > a{
+  display: block;
+  padding: 10px 0 0;
+  font-size: 0.7em;
+  font-style: italic;
+}
+
+
