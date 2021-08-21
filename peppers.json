@@ -196,7 +196,7 @@
          "Name": "Cherry Bomb",
          "Origin": "America",
          "Species": "Capsicum Annuum",
-         "Description": "These thick-walled peppers are perfect for pickling or stuffing and baking. Try substituting them into jalapeño popper recipes—their sweet, bright and grassy flavors will shine through.",
+         "Description": "Available in red, orange, and chocolate colors, these thick-walled peppers are perfect for pickling or stuffing and baking. Try substituting them into jalapeño popper recipes—their sweet, bright and grassy flavors will shine through.",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -220,64 +220,46 @@
       },
       {
          "Tag": "B",
-         "Name": "Georgia flame",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Georgia Flame",
+         "Origin": "Georgia",
+         "Species": "Capsicum Annuum",
+         "Description": "The Georgia Flame Pepper originates from the Republic of Georgia, not the US state! It is named for its shape, which resembles a candle flame. These peppers are best for grilling and roasting, but are also delicisou eaten fresh",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "B",
          "Name": "Gong Bao",
-         "Origin": "Thailand",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Origin": "Asia",
+         "Species": "Capsicum Annuum",
+         "Description": "Despite often being labelled as Thai, this pepper has a strong connection to Chinese cuisine. It gets its name from a Szechuanese classic dish often transcribed into English as ’kung pao’. These thin-walled peppers are commonly used dried, but also make a perfect stir-fry ingredient or garnish.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "B",
-         "Name": "Japaleno?",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
+         "Name": "Kıl Biber",
+         "Origin": "Turkey",
+         "Species": "Capsicum Annuum",
+         "Description": "From PuckerButt Pepper Company: “This interesting Capsicum annuum from Turkey produces very long 7-8 inch Cayenne-like pods that are unique due to the twisting / contortion of the pod. The pods have relatively low heat levels and a typical sweet cayenne flavor. They could definitely be used to make a sweet paprika powder.”",
+         "SourceName": "PuckerButt Pepper Company",
+         "SourceURL": "https://puckerbuttpeppercompany.com/products/cp-322-kll-biber"
       },
       {
          "Tag": "B",
-         "Name": "Kıl biber",
+         "Name": "Peach Drop",
          "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
-      },
-      {
-         "Tag": "B",
-         "Name": "Orange cherry bomb",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
-      },
-      {
-         "Tag": "B",
-         "Name": "Peach drop",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Species": "Capsicum Baccatum",
+         "Description": "Description coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "B",
          "Name": "Piquillo",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Origin": "Navarre, Spain",
+         "Species": "Capsicum Annuum",
+         "Description": "Chef Maricel Presilla describes these as “the ultimate pepper sweet pepper for cooking”, due to their “juicy thin flesh that does not tear easily, sweet and tangy flavor, and their perfect shape for stuffing.” She recommends stuffing them with Spanish-styled seafood or sautéeing them with garlic as a side for a grilled meat.",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -285,118 +267,118 @@
          "Tag": "B",
          "Name": "Prik Chi Faa",
          "Origin": "Thailand",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Species": "Capsicum Annuum",
+         "Description": "These peppers bring a hot kick to curry pastes, dipping sauces, and stir fries. Like the Mexican chile mirasol, their name means “pointing to the sky,” after their upward growing-tendency.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "B",
-         "Name": "Ralph Thompson's Squash",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Ralph Thompson’s Squash",
+         "Origin": "Italy",
+         "Species": "Capsicum Annuum",
+         "Description": "This distinctively shaped pepper was was originally grown by Italian immigrants who came to Boston as indentured servants. Its seeds were eventually donated to a seed exchange by the daughter of Ralph Mead Thompson, of Woburn, MA.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "B",
-         "Name": "Ram's Horn",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Ram’s Horn",
+         "Origin": "Valdese, NC",
+         "Species": "Capsicum Annuum",
+         "Description": "These long, twisted fruits with wrinkled skin resemble the spiraling horns of rams. They have a sweet flavor with an even burn similar to a cayenne pepper. This heirloom variety is from North Carolina circa 1910, and local folklore attributes it to the the Waldenses in Valdese.",
          "SourceName": "",
-         "SourceURL": "https://www.friendsschoolplantsale.com/plant/10866"
+         "SourceURL": ""
       },
       {
          "Tag": "B",
          "Name": "Serrano",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Origin": "Mexico",
+         "Species": "Capsicum Annuum",
+         "Description": "Named for the mountainous regions of its birthplace in the Mexican states of Puebla and Hidalgo, but now widely available in the United States. The serrano is the Mexican preference for guacamole and fresh salsas, owing to its clean, sharp flavor and lower water content than the jalapeño.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "B",
          "Name": "Thunder Mountain",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
+         "Origin": "Guizhou, China",
+         "Species": "Capsicum Annuum",
+         "Description": "From the Hippy Seed Company: “In the south west of Guizhou in China, The Mountain of Leigongshan (Mountain of Thunder) stands as a natural fortress. In the area around Thunder Mountains they grow some amazing chillies. Among them is the rare Thunder Mountain Longhorn Chilli. First they let the sun dry the chillies and afterwards  they put them in charcoal heated hot houses, so they get a sun-dried flavour combined with a smoky flavour—a flavour that makes them completely unique.”",
+         "SourceName": "The Hippy Seed Company",
+         "SourceURL": "https://thehippyseedcompany.com/product/thunder-mountain-longhorn-chilli/"
       }
    ],
    "Hotter medium": [
       {
          "Tag": "C",
          "Name": "Aribibi Gusano",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Origin": "Aribibi, Bolivia",
+         "Species": "Capsicum Chinense",
+         "Description": "This unusual pepper is from the Amazonian town of Aribibi in Bolivia. Chef Maricel Presilla says that in local slang, aribibi means a loud, tantrum-throwing person, which is suitable for this hot little pepper. Its wrinkly shape and light color get it the name gusano, meaning ‘worm’. In Bolivia it is ground to a paste for vinegary table sauces, but it also makes an interesting pickle. Expect some C. chinense fruity and floral flavors.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "C",
-         "Name": "Lemon drop",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Japaleño",
+         "Origin": "Mexico",
+         "Species": "Capsicum Annuum",
+         "Description": "The most famous of all Mexican peppers! Normally these peppers are mild to medium, but ours grow quite hot. They are named for Xalapa, the capital city of Veracruz, Mexico, where they were traditionally grown. Jalapeños were commonly eaten by Aztec people prior to the Spanish invasion, including in their smoked form when they are known as chipotles. Their thick flesh and high water content makes them hard to dry without rotting, but the smoke acts as a preservative and gives chipotles their distinct flavor. There are endless ways to eat jalapeños—try stuffing them to make poppers, boiling them into a piquant jelly, or muddling them into your favourite cocktail for a spicy kick.",
          "SourceName": "",
+         "SourceURL": ""
+      },
+      {
+         "Tag": "C",
+         "Name": "Lemon Drop",
+         "Origin": "Peru",
+         "Species": "Capsicum Baccatum",
+         "Description": "The Lemon Drop chili or Ají Limón is a popular seasoning pepper in Peru, where it is known as qillu uchu. Sandia Seed Company calls it “one of the most flavorful of the Andean peppers has survived from pre-Columbian times. Its distinctive citrus flavor and the bright yellow pods immediately bring to mind the crisp aromas of lemons and limes. This pepper is extremely spicy, but when it’s tempered by cooking in sweet-flavored salsas, the lemony taste is dynamite and it is truly citrusy. Raw and finely chopped this pepper adds flavor, color and heat to ceviches.”",
+         "SourceName": "Serious Eats",
          "SourceURL": "https://www.seriouseats.com/spice-hunting-lemon-drop-chile-peppers-peruvian-hot-sauce"
       },
       {
          "Tag": "C",
-         "Name": "Miguel's chubby super???",
+         "Name": "Miguel’s Chubby Super",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Description coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "C",
-         "Name": "Miguel's orange????",
+         "Name": "Miguel’s Orange",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Description coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "C",
-         "Name": "Murupi amarela",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
-      },
-      {
-         "Tag": "C",
-         "Name": "Murupi great",
-         "Origin": "",
+         "Name": "Murupi Amarela",
+         "Origin": "Brazil",
          "Species": "Capsicum Chinense",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": "https://www.chileplants.com/search.aspx?ProductCode=CHIMUG"
-      },
-      {
-         "Tag": "C",
-         "Name": "Our jalapeños?",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Murupi Amarela is a rare and unique chilli variety from the Amazon in Brazil, where it is often dried into powders or used in traditional sauces.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "C",
-         "Name": "Thai yellow",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Murupi Great",
+         "Origin": "Brazil",
+         "Species": "Capsicum Chinense",
+         "Description": "The largest of the famous Brazilian Murupi peppers from northern Brazil. These peppers have a good, fruity flavor with a combination of sweet and spice that make them popular for hot sauces and eating fresh.",
+         "SourceName": "",
+         "SourceURL": ""
+      },
+      {
+         "Tag": "C",
+         "Name": "Thai Yellow",
+         "Origin": "Thailand",
+         "Species": "Capsicum Annuum",
+         "Description": "The Yellow Thai pepper is a milder Thai that has fruity citrus tones. It still has a quick hot Thai chile heat level but it is lower than the red varieties. They grow pointing up and are very prolific. Use them as a dry seasoning or in stir-fries and sauces.",
          "SourceName": "",
          "SourceURL": ""
       }
@@ -404,145 +386,145 @@
    "Hot": [
       {
          "Tag": "D",
-         "Name": "Bitten ex-lover????",
+         "Name": "Bitten Ex-Lover",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Description coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "Brazillian giant habanero",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Brazilian Giant Habanero",
+         "Origin": "Brazil",
+         "Species": "Capsicum Chinense",
+         "Description": "Excellent for pickling and making salsa, hot sauce, and seasoning spice powder.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "Chilpicitin rojo, amarillo, naranja",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Chilpicitin",
+         "Origin": "Mexico",
+         "Species": "Capsicum Annuum var. Glabriusculum",
+         "Description": "Chilpicitins are the oldeest link we have to wild annuum peppers. Its name, also written as “chiltepin”, “tepin”, or “tecpin” comes fomr the Nahautl word “tecpin”, meaning ‘flea’. Wild chilpicitins are endemic to a wide range of land from southern Mesoamerica to north of the rio grande, and has long been eaten by indigenous people. Chef Maricel Presilla quotes Ignaz Pfefferkorn, an eighteen century German Jesuit missionary: “it is manna to the [native] American palatte and is used with every dish with which it harmonizes. It is placed [dried] unpulverized on the table in a salt cellar and each facier takes as much of it as he believes he can eat. He pulverizes it with his fingers and mixes it into his food.”",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "Dieghito?",
-         "Origin": "",
-         "Species": "",
-         "Description": "Usually listed as mild/med?",
-         "SourceName": "",
-         "SourceURL": ""
+         "Name": "Dieghito",
+         "Origin": "Italy",
+         "Species": "Capsicum Annuum",
+         "Description": "From Refining Fire Chiles: “The Dieghito Jalapeno pepper comes to us from Italy. It is reported to be a cross between a Farmers Market Jalapeno and an unknown variety. Or the Italians just do not want us to know what that other variety is. As of 2020 it is said to be an F5 generation. The Dieghito Jalapeno chiles ripen from green to red with cracking lines or corking on its exterior skin. The peppers are unique as they have a heart or round shape to them.The Dieghito Jalapeno peppers are great for roasting, stuffing, salsa and pickling.”",
+         "SourceName": "Refining Fire Chiles",
+         "SourceURL": "https://www.superhotchiles.com/product/dieghito-jalapeno-pepper-seeds/?v=7516fd43adaa"
       },
       {
          "Tag": "D",
-         "Name": "Gamble your gold dust??",
+         "Name": "Gamble Your Gold Dust",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Description coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
          "Name": "Green St Barts",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Origin": "Saint Barthélemy",
+         "Species": "Capsicum Chinense",
+         "Description": "This pepper is an unusual variant of the more common yellow Harolds St. Bart habanero. It stays green even when fully ripe and has only a slight yellow tint on the pods, making it hard to catch at its peak. It makes good chilli jam, hot sauce, or a fantastic chilli powder.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "Israel's yellow",
+         "Name": "Israel’s Yellow",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Description coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
          "Name": "Orange Thai",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Origin": "Thailand",
+         "Species": "Capsicum Annuum",
+         "Description": "The Orange Thai chile pepper is very similar to the typical red Thai chile pepper, but is unique for its orange ripening pods. As with most Thai chiles, expect an intense upfront heat!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "Paper lantern",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
+         "Name": "Paper Lantern",
+         "Origin": "Peru",
+         "Species": "Capsicum Chinense",
+         "Description": "This pepper is a tropical-sweet habanero-type. It is hotter than the common habanero, but with a slower heat that makes it taste sweeter. Unlike most warm-loving habaneros, it has a short growing season that helps it thrive in cooler Northern climates. Its thin walls make it great for drying, but the sweetness makes it an excellent pickle.",
+         "SourceName": "PepperScale",
          "SourceURL": "https://www.pepperscale.com/hot-paper-lantern/"
       },
       {
          "Tag": "D",
-         "Name": "Pimenta Moranga?",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
+         "Name": "Pimenta Moranga",
+         "Origin": "Brazil",
+         "Species": "Capsicum Chinense",
+         "Description": "From Refining Fire Chiles: “The Pimenta Moranga Pepper is a beauty from the country of Brazil. The chiles are produced in amazing light purple clusters that ripen through orange than finally red. The Pimenta Moranga chiles are teardrop shaped with pointed ends and grow pointing up. As they ripen and gain water weight, the cluster of chiles fall more from their upright position. The flavor is very fruity, and the heat is at the lower habanero level. Great for sauces, salsa, pickling and stir fry.”",
+         "SourceName": "Refining Fire Chiles",
+         "SourceURL": "https://www.superhotchiles.com/product/pimenta-moranga-pepper-seeds/?v=7516fd43adaa"
       },
       {
          "Tag": "D",
-         "Name": "Puerto Rican yelllow",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
+         "Name": "Puerto Rican Yellow",
+         "Origin": "Puerto Rico",
+         "Species": "Capsicum Chinense",
+         "Description": "From Refining Fire Chiles: “The Puerto Rican Yellow pepper has a low habanero heat level and a nice blend of citrus sweet flavor. The skin is thin, so they are great for making a spicy seasoning powder. The Puerto Rican Yellow Chiles are also good for pickling and fresh salsa.”",
+         "SourceName": "Refining Fire Chiles",
+         "SourceURL": "https://www.superhotchiles.com/product/puerto-rican-yellow-pepper-seeds/?v=7516fd43adaa"
       },
       {
          "Tag": "D",
          "Name": "Red Thai",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Origin": "Thailand",
+         "Species": "Capsicum Annuum",
+         "Description": "Expect a sharp heat up front. Great for stir-fries and pickles",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "Thai bird",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Thai Bird",
+         "Origin": "Thailand",
+         "Species": "Capsicum Annuum",
+         "Description": "Also known as ‘bird's-eye chiles’ or prik kee noo, these peppers are prized for their fruity taste and bright heat. Commonly used as a garnish, added to soups, or just nibbled on during a meal. These peppers also do well in curries and salads.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "White bullet",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "White Bullet",
+         "Origin": "Peru",
+         "Species": "Capsicum Chinense",
+         "Description": "The habanero white bullet or Peruvian white has a fruity, smoky flavor and an intense heat. Hot white peppers are usually quite rare varities—try drying them for a strikingly colored chile powder.",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "D",
-         "Name": "Wiri wiri",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
-         "SourceName": "",
-         "SourceURL": ""
+         "Name": "Wiri Wiri",
+         "Origin": "Guyana",
+         "Species": "Capsicum Frutescens",
+         "Description": "From PepperScale: “The Guyanese wiri wiri pepper may look little but inside it contains sun-like heat rivaling habanero peppers and Scotch bonnets. The flavor, too, is deliciously distinct–fruity with sharp tomato undertones. No wonder the Guyanese treasure this chili as a staple in their everyday cuisine! Wiri wiri are used in a delicious extra spicy table sauce (along with mango) common on dining tables across Guyana. It’s also used to create pepper rum that’s used to finish stews, soups, and other dishes.”",
+         "SourceName": "PepperScale",
+         "SourceURL": "https://www.pepperscale.com/wiri-wiri-pepper/"
       },
       {
          "Tag": "D",
-         "Name": "Yellow lightning habanero",
-         "Origin": "",
-         "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Name": "Yellow Lightning Habanero",
+         "Origin": "Kutztown, PA",
+         "Species": "Capsicum Chinense",
+         "Description": "Yellow Lightning Habanero is named for its lightning bolt-shaped brightly colored pods. They carry an intense heat but often with a slightly delayed effect. Careful not to overshoot before the heat hits you! The original variety was bred by James Weaver of Meadow View Farm.",
          "SourceName": "",
          "SourceURL": ""
       }
@@ -550,10 +532,10 @@
    "Very hot": [
       {
          "Tag": "E",
-         "Name": "7 Pot Brain Strain?",
+         "Name": "7 Pot Brain Strain",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -562,7 +544,7 @@
          "Name": "7 Pot Douglah",
          "Origin": "",
          "Species": "",
-         "Description": "Aka 7 Pod Douglah or chocolate 7 pod",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -571,25 +553,25 @@
          "Name": "7 Pot Primo",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Black habanero",
+         "Name": "Black Habanero",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Black panther",
+         "Name": "Black Panther",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -598,16 +580,16 @@
          "Name": "Chocolate Apocalypse",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Chocolate habenero",
+         "Name": "Chocolate Habenero",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -616,16 +598,16 @@
          "Name": "Chocolate Reaper",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Congo black",
+         "Name": "Congo Black",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -634,7 +616,7 @@
          "Name": "Death Spiral",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -643,7 +625,7 @@
          "Name": "Fatalii",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -652,16 +634,16 @@
          "Name": "Ghost",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Giant white habanero",
+         "Name": "Giant White Habanero",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -670,7 +652,7 @@
          "Name": "Green Apocalypse",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -679,16 +661,16 @@
          "Name": "Mustard Scorpion",
          "Origin": "Trinidad",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Orange long-tailed Scorpion",
+         "Name": "Orange Long-Tailed Scorpion",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -697,16 +679,16 @@
          "Name": "Red Apocalypse",
          "Origin": "Italy",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Red bubblegum",
+         "Name": "Red Bubblegum",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -715,7 +697,7 @@
          "Name": "Red Reaper",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -724,7 +706,7 @@
          "Name": "Red Savina Habanero",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -733,25 +715,25 @@
          "Name": "Red Scotch Bonnet",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Spit Fire and Cry???",
+         "Name": "Spit Fire and Cry",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Ugly putty scorpion??",
+         "Name": "Ugly Putty Scorpion",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -760,16 +742,16 @@
          "Name": "Wartryx",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Yellow bubblegum",
+         "Name": "Yellow Bubblegum",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
@@ -778,16 +760,16 @@
          "Name": "Yellow Reaper",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "E",
-         "Name": "Yellow scotch bonnet",
+         "Name": "Yellow Scotch Bonnet",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       }
@@ -795,46 +777,46 @@
    "Seasoning": [
       {
          "Tag": "F",
-         "Name": "Aji dulce",
+         "Name": "Aji Dulce",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "F",
-         "Name": "Red biquinho",
+         "Name": "Red Biquinho",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "F",
-         "Name": "Trinidad perfume",
+         "Name": "Trinidad Perfume",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "F",
-         "Name": "Trinidad pimento",
+         "Name": "Trinidad Pimento",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       },
       {
          "Tag": "F",
-         "Name": "Yellow biquinho",
+         "Name": "Yellow Biquinho",
          "Origin": "",
          "Species": "",
-         "Description": "This pepper doesn't have a description yet!",
+         "Description": "Very hot pepper descriptions coming soon!",
          "SourceName": "",
          "SourceURL": ""
       }
