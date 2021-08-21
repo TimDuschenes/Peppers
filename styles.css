@@ -1,5 +1,6 @@
 body{
   padding: 0 10px;
+  font-family: sans-serif;
 }
 
 .accordion-container{
@@ -11,14 +12,18 @@ body{
 
 .group {
   border-bottom: 1px solid #ddd;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .groupName {
-  padding: 10px 0;
-  margin: 0 0 5px;
+  padding: 15px 0 10px;
+  margin: 0;
   position: sticky;
   top: 0;
+  font-family: courier;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 1.2em;
   background-color: white;
   z-index: 999;
 }
@@ -34,7 +39,6 @@ body{
   padding: 10px 15px;
   text-decoration: none;
   color: #333;
-  font-weight: 400;
   border-top: 1px solid #ddd;
   -webkit-transition:all 0.2s linear;
   -moz-transition:all 0.2s linear;
@@ -87,3 +91,60 @@ body{
 }
 
 
+
+
+/*____________*/
+.dropdownContainer{
+  position: absolute;
+  right:0;
+  height: 100%;
+}
+
+.dropdown {
+  position: sticky;
+  top: 5px;
+  z-index: 9999;
+}
+
+.dropbtn {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+  padding: 10px;
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family: courier;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #FED500;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: 5px;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  border: 1px solid black;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 6px 12px;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  display: block;
+}
+
+.dropdown-content:last-child {
+  border-bottom: none;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
