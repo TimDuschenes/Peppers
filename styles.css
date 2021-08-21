@@ -14,7 +14,6 @@ h1 {
 
 .title {
   margin-right: 110px;
-  border: 1px solid red;
 }
 
 .disclaimer{
@@ -172,3 +171,10 @@ h1 {
 .dropdown a:hover {background-color: #ddd;}
 
 .show {display: block;}
+
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 1.4em;
+  }
+}
