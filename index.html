@@ -1,45 +1,47 @@
 <html>
-  <head>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-    <meta charset="utf=8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CRZ8W7BH3P"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-CRZ8W7BH3P');
-    </script>
-    
-  </head>
+<head>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+  <meta charset="utf=8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CRZ8W7BH3P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-CRZ8W7BH3P');
+  </script>
+  
+</head>
 
-  <body>
-    <div class="accordion-container">
-      <div class="dropdownContainer">
-        <div class="dropdown">
-          <button onclick="myFunction()" class="dropbtn">Heat Level</button>
-          <div id="myDropdown" class="dropdown-content">
-            <a href="#Group-Mild">Mild</a>
-            <a href="#Group-Medium">Medium</a>
-            <a href="#Group-Hotter medium">Hotter Medium</a>
-            <a href="#Group-Hot">Hot</a>
-            <a href="#Group-Very hot">Very Hot</a>
-            <a href="#Group-Seasoning">Seasoning</a>
-          </div>
+<body>
+  <div class="accordion-container">
+    <div class="dropdownContainer">
+      <div class="dropdown">
+        <button onclick="myFunction()" class="dropbtn">Heat Level</button>
+        <div id="myDropdown" class="dropdown-content">
+          <a href="#Group-Mild">Mild</a>
+          <a href="#Group-Medium">Medium</a>
+          <a href="#Group-Hotter medium">Hotter Medium</a>
+          <a href="#Group-Hot">Hot</a>
+          <a href="#Group-Very hot">Very Hot</a>
+          <a href="#Group-Seasoning">Seasoning</a>
         </div>
       </div>
-      <h1 class="title">Evolutionary Organics<br>Pepper Archive</h1>
-      <p class="disclaimer">Welcome to the Evolutionary Organics Pepper Archive. Please note that this is a prototype so expect some typos and glitches. Thank you for your patience and for trying it out!</p>
-      
-      
-      <section></section>
     </div>
+    <h1 class="title">Evolutionary Organics<br>Pepper Archive</h1>
+    <p class="disclaimer">Welcome to the Evolutionary Organics Pepper Archive. Please note that this is a prototype so expect some typos and glitches. Thank you for your patience and for trying it out!</p>
+    <input id="search" type="text" placeholder="Search...">
+    <button id="searchReset">Clear Search</button>
     
-    <script type="text/javascript" src="scripts.js"></script>
-  </body>
+    
+    <section></section>
+  </div>
+  
+  <script type="text/javascript" src="scripts.js"></script>
+</body>
 
 </html>

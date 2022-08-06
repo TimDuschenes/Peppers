@@ -115,4 +115,24 @@ window.onclick = function(event) {
         dropdown.classList.remove('show');
       }
   }
-}
+};
+
+
+$(function () {
+  var value;
+  $("#search").on("keyup", function () {
+    value = $(this).val().toLowerCase();
+    //console.log(value);
+    $(".set").filter(function () {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+    });
+  });
+  $("#searchReset").click(function () {
+    $("#search").val("");
+    value = "";
+    //console.log(value);
+    $(".set").filter(function () {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+    });
+  });
+});
