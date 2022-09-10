@@ -2,7 +2,6 @@
 <head>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
   <meta charset="utf=8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -18,29 +17,24 @@
 </head>
 
 <body>
-  <div class="accordion-container">
-    <div class="dropdownContainer">
-      <div class="dropdown">
-        <button onclick="myFunction()" class="dropbtn">Heat Level</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="#Group-Mild">Mild</a>
-          <a href="#Group-Medium">Medium</a>
-          <a href="#Group-Hotter medium">Hotter Medium</a>
-          <a href="#Group-Hot">Hot</a>
-          <a href="#Group-Very hot">Very Hot</a>
-          <a href="#Group-Seasoning">Seasoning</a>
-        </div>
-      </div>
+
+  <div id="header">
+    <div id="navBar">
+      <a href="#"><img id="logo" src="https://static.wixstatic.com/media/dc9b92_9413f86729ee41c0bbefa90b1b5f398f~mv2.png/v1/fill/w_250,h_250,al_c,q_85,enc_auto/EO_Logo_01_250.png" alt="Evolutionary Organics Logo"></a>
+
+      <input id="search" type="search" name="q" incremental="incremental" autocomplete="off" onsearch="onSearch()" placeholder="Search...">
     </div>
+  </div>
+
+  <div id="titleSection">
     <h1 class="title">Evolutionary Organics<br>Pepper Archive</h1>
-    <p class="disclaimer">Welcome to the Evolutionary Organics Pepper Archive. Please note that this is a prototype so expect some typos and glitches. Thank you for your patience and for trying it out!</p>
-    <input id="search" type="text" placeholder="Search...">
-    <button id="searchReset">Clear Search</button>
-    
-    
+    <p class="disclaimer">This site was created and developed by Tim Duschenes. Please send questions and feedback to timduschenes@gmail.com. Remember that heat levels are only a guide and individual peppers may vary.</p>
+  </div>
+
+  <div class="accordion-container">        
     <section></section>
   </div>
-  
+
   <script type="text/javascript" src="scripts.js"></script>
 </body>
 
