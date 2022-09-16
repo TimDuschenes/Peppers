@@ -47,7 +47,7 @@ body{
 }
 
 #search:focus {
-  outline: 3px solid lightblue;
+  /* outline: 3px solid lightblue; */
   border: 1px solid transparent;
 }
 
